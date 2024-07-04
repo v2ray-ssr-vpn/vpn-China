@@ -23,7 +23,7 @@
 
 ### 经过我长期的购买测试，我找到了一款各方面都符合上述要求的VPN梯子软件
 
-### [DOVE加速器 - 点击注册，免费试用](https://dove8.cc/a.php?asbcbO1PCgF)
+### [DOVE加速器 - 点击进入官网，免费试用](https://dove8.cc/a.php?asbcbO1PCgF)
 
 DOVE加速器提供海量SSR翻墙协议节点，通过在线客服了解到，DOVE加速器有多套国内中转和IPLC内网专线备用，即便是敏感时期，稳定性也有保证，不担心被封锁。
 
@@ -34,7 +34,7 @@ DOVE加速器提供海量SSR翻墙协议节点，通过在线客服了解到，D
 还一点特别重要的是，每次联系DOVE加速器的在线客服，都可以在1分钟内及时回应，说明这款VPN软件的运营团队是正规有序的。
 
 
-### [DOVE加速器 - 点击注册，免费试用](https://dove8.cc/a.php?asbcbO1PCgF)
+### [DOVE加速器 - 点击注册账号，免费试用](https://dove8.cc/a.php?asbcbO1PCgF)
 
 #### 科学上网客户端推荐
 Windows: Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
