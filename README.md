@@ -37,8 +37,13 @@ DOVE加速器提供海量SSR翻墙协议节点，通过在线客服了解到，D
 
 #### 科学上网客户端推荐
 Windows: Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
+
 macOS: Clsah Verge / Clash for Windows / ClashX / ClashX Pro / Stash / V2rayU / Quantumult X / sing-box
+
 iOS: Shadowrocket / Quantumult_ / Quantumult X / Stash / Potatso Lite / sing-box
+
 Android: v2rayNG / Clash for Android / NekoBox for Android / sing-box / Surfboard
+
 Linux: Clsah Verge / Clash for Windows / NekoRay / sing-box
+
 路由器: OpenClash / PassWall2 / ShadowsocksR Plus+
